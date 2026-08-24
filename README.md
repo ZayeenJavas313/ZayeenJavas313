@@ -1,86 +1,34 @@
-<h1 align="center">Halo semua! 👋</h1>
+### Halo semua! 👋 I'm Ahmad Naim.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Website+Developer;Software+Developer+%40+Scholarify+Academy;Suka+ngoding+struktur+data+%26+web;Selalu+belajar+hal+baru+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+A Full Stack Website Developer who loves building and maintaining quality web products! I enjoy working across the stack, from crafting clean frontend interfaces to structuring solid data logic underneath.
 
-<p align="center">
-  Perkenalkan, nama saya <b>Ahmad Naim</b>. Saya seorang <b>Software Developer</b> di
-  <a href="#">Scholarify Academy</a>, bertanggung jawab menjaga kualitas website
-  <a href="#">Scholarify Academy</a>.
-</p>
+I'm currently active as a **Software Developer** at <a href="https://scholarify.id/">@ScholarifyAcademy</a>, responsible for maintaining and improving the quality of the Scholarify Academy website.
 
-<p align="center">
-  Tertarik untuk berkenalan? Yuk terhubung lewat sosial media di bawah 👇
-</p>
+- 🔭 I'm currently working on <a href="#">@ScholarifyAcademy</a>
+- 🌱 I'm currently learning more about data structures & algorithms (Linked List, etc.)
+- 💬 Feel free to ask me about web development or frontend engineering
+- 📫 How to reach me: ahmdnaim3@gmail.com
+- 📍 Based in Yogyakarta, Indonesia
 
-<p align="center">
-  <a href="https://www.ahmadnaim.site" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ahmadznaim" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/ahmadznaim_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:ahmdnaim3@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+### Tech Stack
+  <a href="#"><img align="left" alt="TypeScript" title="TypeScript" width="21px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" /></a>
+  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
+  <a href="#"><img align="left" alt="Java" title="Java" width="21px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" /></a>
+  <a href="#"><img align="left" alt="HTML5" title="HTML5" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" /></a>
+  <a href="#"><img align="left" alt="CSS3" title="CSS3" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" /></a>
+  <br>
+  <br>
 
----
-
-### 🧑‍💻 Tentang Saya
-
-- 🎓 Full Stack Website Developer, fokus di **frontend & struktur data**
-- 💼 Saat ini bekerja sebagai Software Developer di **Scholarify Academy**
-- 🌱 Lagi aktif belajar dan mengasah kemampuan algoritma & struktur data (Linked List, dsb.)
-- 📍 Berbasis di **Yogyakarta, Indonesia**
-- ⚡ Fun fact: suka eksplor hal baru seputar web development
-
----
-
-### 🛠️ Tech Stack
-
+### Github Statistic
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,java,html,css,react,nodejs,git,github,vscode" />
+<a href="https://github.com/ZayeenJavas313">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ZayeenJavas313&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ZayeenJavas313&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
----
-
-### 📌 Popular Repositories
-
-<p align="left">
-  <a href="https://github.com/ZayeenJavas313/frontend-scholarify">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZayeenJavas313&repo=frontend-scholarify&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/ZayeenJavas313/Struktur-Data">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZayeenJavas313&repo=Struktur-Data&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/ZayeenJavas313/Singly-LinkedList-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZayeenJavas313&repo=Singly-LinkedList-&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/ZayeenJavas313/Doubly-LinkedList">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZayeenJavas313&repo=Doubly-LinkedList&theme=tokyonight" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ZayeenJavas313&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ZayeenJavas313&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZayeenJavas313&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <i>Terima kasih sudah mampir! Jangan ragu untuk say hi 😊</i>
-</p>
+### Reach me on
+- <a href="https://www.linkedin.com/in/ahmadznaim">LinkedIn</a>
+- <a href="https://www.ahmadnaim.site">ahmadnaim.site</a>
+- ahmdnaim3@gmail.com
+- <a href="https://instagram.com/ahmadznaim_">Instagram</a>
