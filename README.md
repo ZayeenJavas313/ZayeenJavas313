@@ -5,12 +5,12 @@
 
 <br />
 
-<!-- Header, Typing & Badges -->
+<!-- Header & Dynamic Typing -->
 <div align="center">
   <h1>Hi there! 👋 I'm Ahmad Naim</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=660&lines=Full-Stack+Web+Developer;Software+Developer+%40ScholarifyAcademy;Building+Clean+UI+%26+Data-Driven+Web+Apps;Yogyakarta+%26+Klaten%2C+ID+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=620&lines=Full-Stack+Web+Developer;Software+Developer+%40ScholarifyAcademy;Crafting+Clean+UI+%26+Scalable+Web+Apps;Based+in+Yogyakarta%2C+ID+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
   </a>
 
   <br /><br />
@@ -27,12 +27,6 @@
   <a href="mailto:ahmdnaim3@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-
-  <br /><br />
-
-  <img src="https://komarev.com/ghpvc/?username=ZayeenJavas313&style=flat-square&color=0EA5E9&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack_%26_Frontend-10B981?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Actively_Building-6366F1?style=flat-square" alt="Status" />
 </div>
 
 <br />
@@ -42,29 +36,14 @@
 ### 👨‍💻 About Me
 
 ```ts
-interface DeveloperProfile {
-  name: string;
-  role: string;
-  currentCompany: string;
-  base: string;
-  activeProjects: string[];
-  focusAreas: string[];
-  openTo: string[];
-}
-
-const profile: DeveloperProfile = {
-  name: "Ahmad Naim",
+const ahmadNaim = {
   role: "Full-Stack Web Developer",
-  currentCompany: "Scholarify Academy",
-  base: "Indonesia (Yogyakarta / Klaten)",
-  activeProjects: [
+  currentRole: "Software Developer @ScholarifyAcademy",
+  location: "Yogyakarta, Indonesia",
+  building: [
     "Scholarify Academy Web",
     "Sabana Adventure (Asah Dicoding Capstone)"
   ],
-  focusAreas: [
-    "TypeScript & Next.js Architecture",
-    "Interactive UI & Data Workflows",
-    "Data Structures & Algorithms (Linked Lists, Trees, Optimization)"
-  ],
-  openTo: ["Full-Stack / Frontend Roles", "Product Collaborations", " impactful Builds"]
+  deepening: ["Data Structures & Algorithms", "System & UI Optimization"],
+  openTo: ["Full-Stack / Frontend Roles", "Tech Collaborations", "Interesting Builds"]
 };
