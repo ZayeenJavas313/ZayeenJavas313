@@ -28,12 +28,12 @@
 
 ### 👨‍💻 About Me
 
-I build and maintain reliable web products—spanning responsive frontend interfaces to clean, structured logic under the hood.
+Full-stack web developer focused on building maintainable, responsive, and reliable web applications—bridging intuitive user interfaces with structured application logic and real-world workflows.
 
-- 🔭 **Currently working on:** [Scholarify Academy](https://scholarify.id/) & **Sabana Adventure** *(Asah Dicoding Capstone Project)*
-- 🌱 **Currently deepening:** Data Structures & Algorithms (Linked Lists, Trees, Optimization)
-- 💬 **Ask me about:** Web Development, TypeScript, React, Next.js, and Frontend Engineering
-- 📫 **Reach me directly:** [ahmdnaim3@gmail.com](mailto:ahmdnaim3@gmail.com)
+- 🔭 **Current focus:** [Scholarify Academy](https://scholarify.id/) & **Sabana Adventure** *(Asah Dicoding Capstone Project)*
+- 🌱 **Continuous learning:** Data Structures & Algorithms (Linked Lists, Trees, Optimization) and scalable UI architecture
+- 💬 **Core expertise:** TypeScript, React, Next.js, Full-Stack Web Development, and Frontend Engineering
+- 📫 **Get in touch:** [ahmdnaim3@gmail.com](mailto:ahmdnaim3@gmail.com)
 
 ---
 
@@ -53,20 +53,16 @@ I build and maintain reliable web products—spanning responsive frontend interf
 
 ### 🚀 Featured Work & Projects
 
-| Project | Description | Tech & Features | Links |
+| Project | Overview & Value | Stack & Capabilities | Links |
 | :--- | :--- | :--- | :--- |
-| **Sabana Adventure** *(Asah Dicoding Capstone)* | Integrated platform combining a **CRM Admin Retail Dashboard** for inventory and customer management with an interactive **Customer Catalog** storefront. | `Full-Stack` `CRM Dashboard` `Retail Catalog` | ![In Development](https://img.shields.io/badge/Status-In_Development-F59E0B?style=flat-square) • [GitHub](https://github.com/ZayeenJavas313) |
-| **Scholarify Academy Web** | Company profile and SNBT tryout platform featuring structured data analysis to support student evaluation and decision-making. | `Next.js` `TypeScript` `Data Analysis` | [Live Site](https://scholarify.id/) • [Portfolio](https://www.ahmadnaim.site) |
-| **Aira Dry Cleaning Web** | Digitalized manual record-keeping into an online booking flow—letting customers check rates, schedule pickup/delivery, and view locations without prior chat. | `React` `CRUD System` `Payment Gateway` | [Portfolio](https://www.ahmadnaim.site) • [GitHub](https://github.com/ZayeenJavas313) |
-| **Personal Portfolio** | Personal showcase highlighting selected production-ready projects, UI craft, and engineering notes. | `TypeScript` `Next.js` | [ahmadnaim.site](https://www.ahmadnaim.site) |
+| **Sabana Adventure**<br>*(Asah Dicoding Capstone)* | End-to-end platform combining a **CRM Admin Retail Dashboard** for inventory and customer operations with an interactive **Customer Catalog** storefront. | `Full-Stack` `CRM Dashboard` `Retail Catalog` | ![In Development](https://img.shields.io/badge/Status-In_Development-F59E0B?style=flat-square)<br>[GitHub](https://github.com/ZayeenJavas313) |
+| **Scholarify Academy Web** | Company profile and SNBT tryout platform featuring structured data analysis to support student evaluation and informed decision-making. | `Next.js` `TypeScript` `Data Analysis` | [Live Site](https://scholarify.id/) • [Portfolio](https://www.ahmadnaim.site) |
+| **Aira Dry Cleaning Web** | Digitalized manual record-keeping into a self-service booking workflow—allowing customers to check pricing, schedule pickup/delivery, and view locations without prior chat. | `React` `CRUD System` `Payment Gateway` | [Portfolio](https://www.ahmadnaim.site) • [GitHub](https://github.com/ZayeenJavas313) |
+| **Personal Portfolio** | Selected production builds, UI engineering work, and technical notes presented in a clean, focused showcase. | `TypeScript` `Next.js` | [ahmadnaim.site](https://www.ahmadnaim.site) |
 
 ---
 
 ### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics Isometric" width="100%" />
-</div>
 
 <div align="center">
   <a href="https://github.com/ZayeenJavas313">
@@ -75,6 +71,8 @@ I build and maintain reliable web products—spanning responsive frontend interf
   </a>
 </div>
 
+<br />
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ZayeenJavas313&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ZayeenJavas313&theme=github_dark_blue&hide_border=true" alt="GitHub Streak" />
 </div>
