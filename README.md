@@ -5,10 +5,15 @@
 
 <br />
 
-<!-- Header & Social Badges -->
+<!-- Header & Dynamic Typing -->
 <div align="center">
   <h1>Hi there! 👋 I'm Ahmad Naim</h1>
-  <p><b>Full-Stack Web Developer</b> • Software Developer at <a href="https://scholarify.id/">@ScholarifyAcademy</a> • Based in Yogyakarta, ID</p>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=660&lines=Full-Stack+Web+Developer;Software+Developer+%40ScholarifyAcademy;Crafting+Clean+UI+%26+Data-Driven+Web+Apps;Based+in+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
+  </a>
+
+  <br /><br />
 
   <a href="https://www.ahmadnaim.site" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
@@ -22,59 +27,29 @@
   <a href="mailto:ahmdnaim3@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+
+  <br /><br />
+
+  <img src="https://komarev.com/ghpvc/?username=ZayeenJavas313&style=flat-square&color=0EA5E9&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack_%26_Frontend-10B981?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Status-Actively_Building-6366F1?style=flat-square" alt="Status" />
 </div>
+
+<br />
 
 ---
 
 ### 👨‍💻 About Me
 
-I build and maintain reliable web products—spanning responsive frontend interfaces to clean, structured logic under the hood.
-
-- 🔭 **Currently working on:** [Scholarify Academy](https://scholarify.id/) & **Sabana Adventure** *(Asah Dicoding Capstone Project)*
-- 🌱 **Currently deepening:** Data Structures & Algorithms (Linked Lists, Trees, Optimization)
-- 💬 **Ask me about:** Web Development, TypeScript, React, Next.js, and Frontend Engineering
-- 📫 **Reach me directly:** [ahmdnaim3@gmail.com](mailto:ahmdnaim3@gmail.com)
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</div>
-
----
-
-### 🚀 Featured Work & Projects
-
-| Project | Description | Tech & Features | Links |
-| :--- | :--- | :--- | :--- |
-| **Sabana Adventure** *(Asah Dicoding Capstone)* | Integrated platform combining a **CRM Admin Retail Dashboard** for inventory and customer management with an interactive **Customer Catalog** storefront. | `Full-Stack` `CRM Dashboard` `Retail Catalog` | ![In Development](https://img.shields.io/badge/Status-In_Development-F59E0B?style=flat-square) • [GitHub](https://github.com/ZayeenJavas313) |
-| **Scholarify Academy Web** | Company profile and SNBT tryout platform featuring structured data analysis to support student evaluation and decision-making. | `Next.js` `TypeScript` `Data Analysis` | [Live Site](https://scholarify.id/) • [Portfolio](https://www.ahmadnaim.site) |
-| **Aira Dry Cleaning Web** | Digitalized manual record-keeping into an online booking flow—letting customers check rates, schedule pickup/delivery, and view locations without prior chat. | `React` `CRUD System` `Payment Gateway` | [Live Site](https://aira-dry-cleaning.vercel.app/) • [GitHub](https://github.com/ZayeenJavas313) |
-| **Personal Portfolio** | Personal showcase highlighting selected production-ready projects, UI craft, and engineering notes. | `TypeScript` `Next.js` | [ahmadnaim.site](https://www.ahmadnaim.site) |
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics Isometric" width="100%" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/ZayeenJavas313">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=ZayeenJavas313&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="Ahmad Naim's GitHub Stats" />
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZayeenJavas313&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top Languages" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ZayeenJavas313&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</div>
+```ts
+const ahmadNaim = {
+  role: "Full-Stack Web Developer",
+  currentRole: "Software Developer @ScholarifyAcademy",
+  location: "Indonesia",
+  building: [
+    "Scholarify Academy Web",
+    "Sabana Adventure (Asah Dicoding Capstone)"
+  ],
+  deepening: ["Data Structures & Algorithms", "System & UI Optimization"],
+  openTo: ["Full-Stack / Frontend Roles", "Tech Collaborations", "Impactful Builds"]
+};
