@@ -1,80 +1,100 @@
-<!-- Pixel-Art Coding GIF Banner -->
+<br />
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="100%" alt="Pixel Art Coding Banner" />
+  <h1>AHMAD NAIM</h1>
+  <p>
+    <strong>Full-Stack Web Developer</strong> &nbsp;·&nbsp; Software Developer at <a href="https://scholarify.id/">Scholarify Academy</a> &nbsp;·&nbsp; Yogyakarta, ID
+  </p>
+
+  <br />
+
+  <p>
+    <a href="https://www.ahmadnaim.site" target="_blank">
+      <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/ahmadznaim" target="_blank">
+      <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://instagram.com/ahmadznaim_" target="_blank">
+      <img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="mailto:ahmdnaim3@gmail.com">
+      <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 </div>
 
 <br />
 
-<!-- Header & Social Badges -->
-<div align="center">
-  <h1>Hi there! 👋 I'm Ahmad Naim</h1>
-  <p><b>Full-Stack Web Developer</b> • Software Developer at <a href="https://scholarify.id/">@ScholarifyAcademy</a> • Based in Yogyakarta, ID</p>
+---
 
-  <a href="https://www.ahmadnaim.site" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/ahmadznaim" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/ahmadznaim_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:ahmdnaim3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+<br />
+
+### ABOUT
+
+Crafting refined, scalable web applications—from clean, responsive interfaces to structured backend logic. Focused on clarity, maintainability, and thoughtful user experience.
+
+- **Current Focus** — Building at [Scholarify Academy](https://scholarify.id/) & developing **Sabana Adventure** *(Asah Dicoding Capstone)*
+- **Deepening** — Data Structures & Algorithms *(Linked Lists, Trees, Optimization)*
+- **Core Interests** — TypeScript, React, Next.js, Frontend Architecture
+- **Contact** — [ahmdnaim3@gmail.com](mailto:ahmdnaim3@gmail.com)
+
+<br />
 
 ---
 
-### 👨‍💻 About Me
+<br />
 
-I build and maintain reliable web products—spanning responsive frontend interfaces to clean, structured logic under the hood.
-
-- 🔭 **Currently working on:** [Scholarify Academy](https://scholarify.id/) & **Sabana Adventure** *(Asah Dicoding Capstone Project)*
-- 🌱 **Currently deepening:** Data Structures & Algorithms (Linked Lists, Trees, Optimization)
-- 💬 **Ask me about:** Web Development, TypeScript, React, Next.js, and Frontend Engineering
-- 📫 **Reach me directly:** [ahmdnaim3@gmail.com](mailto:ahmdnaim3@gmail.com)
-
----
-
-### 🛠️ Tech Stack
+### TECH STACK
 
 <div align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </div>
+
+<br />
 
 ---
 
-### 🚀 Featured Work & Projects
+<br />
 
-| Project | Description | Tech & Features | Links |
+### SELECTED WORK
+
+| Project | Overview | Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Sabana Adventure** *(Asah Dicoding Capstone)* | Integrated platform combining a **CRM Admin Retail Dashboard** for inventory and customer management with an interactive **Customer Catalog** storefront. | `Full-Stack` `CRM Dashboard` `Retail Catalog` | ![In Development](https://img.shields.io/badge/Status-In_Development-F59E0B?style=flat-square) • [GitHub](https://github.com/ZayeenJavas313) |
-| **Scholarify Academy Web** | Company profile and SNBT tryout platform featuring structured data analysis to support student evaluation and decision-making. | `Next.js` `TypeScript` `Data Analysis` | [Live Site](https://scholarify.id/) • [Portfolio](https://www.ahmadnaim.site) |
-| **Aira Dry Cleaning Web** | Digitalized manual record-keeping into an online booking flow—letting customers check rates, schedule pickup/delivery, and view locations without prior chat. | `React` `CRUD System` `Payment Gateway` | [Portfolio](https://www.ahmadnaim.site) • [GitHub](https://github.com/ZayeenJavas313) |
-| **Personal Portfolio** | Personal showcase highlighting selected production-ready projects, UI craft, and engineering notes. | `TypeScript` `Next.js` | [ahmadnaim.site](https://www.ahmadnaim.site) |
+| **Sabana Adventure** | Integrated retail platform combining a CRM Admin Dashboard for inventory & customer management with a Customer Catalog storefront *(In Development)*. | `Full-Stack` `CRM` `Catalog` | [GitHub](https://github.com/ZayeenJavas313) |
+| **Scholarify Academy** | Company profile and SNBT tryout platform equipped with structured data analysis for student evaluation and decision-making. | `Next.js` `TypeScript` `Analytics` | [Live](https://scholarify.id/) · [Portfolio](https://www.ahmadnaim.site) |
+| **Aira Dry Cleaning** | Online booking system that digitizes manual record-keeping—enabling rate checks, pickup/delivery scheduling, and location lookup. | `React` `CRUD` `Payment` | [Portfolio](https://www.ahmadnaim.site) · [GitHub](https://github.com/ZayeenJavas313) |
+| **Personal Portfolio** | Curated digital space showcasing selected production-ready work, UI craft, and engineering notes. | `TypeScript` `Next.js` | [ahmadnaim.site](https://www.ahmadnaim.site) |
+
+<br />
 
 ---
 
-### 📊 GitHub Analytics
+<br />
+
+### ANALYTICS
 
 <div align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics Isometric" width="100%" />
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </div>
+
+<br />
 
 <div align="center">
   <a href="https://github.com/ZayeenJavas313">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=ZayeenJavas313&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="Ahmad Naim's GitHub Stats" />
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZayeenJavas313&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top Languages" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ZayeenJavas313&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF&icon_color=D4AF37" alt="GitHub Stats" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZayeenJavas313&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF" alt="Top Languages" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ZayeenJavas313&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ZayeenJavas313&hide_border=true&background=0D1117&ring=D4AF37&fire=D4AF37&currStreakLabel=FFFFFF&sideLabels=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B7280" alt="GitHub Streak" />
 </div>
+
+<br />
