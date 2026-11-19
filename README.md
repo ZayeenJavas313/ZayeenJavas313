@@ -30,7 +30,7 @@
 
 I love building and maintaining quality web products—working across the entire stack from crafting clean, responsive frontend interfaces to structuring solid data logic underneath.
 
-- 🔭 **Currently working on:** [Scholarify Academy](https://scholarify.id/) & **Sabana Adventure** *(Asah Dicoding Capstone Project)*
+- 🔭 **Currently project on:** [Scholarify Academy](https://scholarify.id/) & **Sabana Adventure** *(Asah Dicoding Capstone Project)*
 - 🌱 **Currently deepening:** Data Structures & Algorithms (Linked Lists, Trees, Optimization)
 - 💬 **Ask me about:** Web Development, TypeScript, React, Next.js, or Frontend Engineering
 - 📫 **Reach me directly:** [ahmdnaim3@gmail.com](mailto:ahmdnaim3@gmail.com)
@@ -56,21 +56,25 @@ I love building and maintaining quality web products—working across the entire
 | Project | Description | Tech & Features | Links |
 | :--- | :--- | :--- | :--- |
 | **Sabana Adventure** *(Capstone Project — Asah Dicoding)* | Integrated web platform combining a **CRM Admin Retail Dashboard** for inventory/customer management and an interactive **Customer Catalog** storefront. | `Full-Stack` `CRM Dashboard` `Retail Catalog` | ![In Development](https://img.shields.io/badge/Status-In_Development-F59E0B?style=flat-square) • [GitHub](https://github.com/ZayeenJavas313) |
-| **Web Scholarify Academy** | Company profile website and SNBT tryout platform featuring professional data analysis to support evaluation and decision-making. | `Next.js` `TypeScript` `Data Analysis` | [Live Demo](https://scholarify.id/) • [Portfolio](https://www.ahmadnaim.site) |
-| **Web Aira Dry Cleaning** | Digitalized manual record-keeping into an online booking system—allowing customers to check pricing, schedule pickup/delivery, and view locations without prior chat. | `React` `CRUD System` `Payment Gateway` | [Portfolio](https://www.ahmadnaim.site) • [Repo](https://github.com/ZayeenJavas313) |
-| **Personal Portfolio** | My personal corner on the internet showcasing selected production-ready projects, clean UI implementations, and engineering journey. | `TypeScript` `Next.js` | [ahmadnaim.site](https://www.ahmadnaim.site) |
+| **Web Scholarify Academy** | Company profile website and SNBT tryout platform featuring professional data analysis to support evaluation and decision-making[cite: 1]. | `Next.js` `TypeScript` `Data Analysis`[cite: 1] | [Live Demo](https://scholarify.id/) • [Portfolio](https://www.ahmadnaim.site) |
+| **Web Aira Dry Cleaning** | Digitalized manual record-keeping into an online booking system—allowing customers to check pricing, schedule pickup/delivery, and view locations without prior chat[cite: 1]. | `React` `CRUD System` `Payment Gateway`[cite: 1] | [Portfolio](https://www.ahmadnaim.site) • [Repo](https://github.com/ZayeenJavas313) |
+| **Personal Portfolio** | My personal corner on the internet showcasing selected production-ready projects, clean UI implementations, and engineering journey[cite: 1]. | `TypeScript` `Next.js` | [ahmadnaim.site](https://www.ahmadnaim.site) |
 
 ---
 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/ZayeenJavas313?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.limit=6&config.timezone=Asia%2FJakarta" alt="GitHub Metrics Isometric" width="100%" />
+  <img src="./github-metrics.svg" alt="GitHub Metrics Isometric" width="100%" />
 </div>
 
 <div align="center">
   <a href="https://github.com/ZayeenJavas313">
-    <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ZayeenJavas313&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="Ahmad Naim's GitHub Stats" />
-    <img height="175em" src="https://streak-stats.demolab.com?user=ZayeenJavas313&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=ZayeenJavas313&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="Ahmad Naim's GitHub Stats" />
+    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZayeenJavas313&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top Languages" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ZayeenJavas313&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </div>
