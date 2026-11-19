@@ -57,7 +57,7 @@ I build and maintain reliable web products—spanning responsive frontend interf
 | :--- | :--- | :--- | :--- |
 | **Sabana Adventure** *(Asah Dicoding Capstone)* | Integrated platform combining a **CRM Admin Retail Dashboard** for inventory and customer management with an interactive **Customer Catalog** storefront. | `Full-Stack` `CRM Dashboard` `Retail Catalog` | ![In Development](https://img.shields.io/badge/Status-In_Development-F59E0B?style=flat-square) • [GitHub](https://github.com/ZayeenJavas313) |
 | **Scholarify Academy Web** | Company profile and SNBT tryout platform featuring structured data analysis to support student evaluation and decision-making. | `Next.js` `TypeScript` `Data Analysis` | [Live Site](https://scholarify.id/) • [Portfolio](https://www.ahmadnaim.site) |
-| **Aira Dry Cleaning Web** | Digitalized manual record-keeping into an online booking flow—letting customers check rates, schedule pickup/delivery, and view locations without prior chat. | `React` `CRUD System` `Payment Gateway` | [Portfolio](https://www.ahmadnaim.site) • [GitHub](https://github.com/ZayeenJavas313) |
+| **Aira Dry Cleaning Web** | Digitalized manual record-keeping into an online booking flow—letting customers check rates, schedule pickup/delivery, and view locations without prior chat. | `React` `CRUD System` `Payment Gateway` | [Live Site]((https://aira-dry-cleaning.vercel.app/)) • [GitHub](https://github.com/ZayeenJavas313) |
 | **Personal Portfolio** | Personal showcase highlighting selected production-ready projects, UI craft, and engineering notes. | `TypeScript` `Next.js` | [ahmadnaim.site](https://www.ahmadnaim.site) |
 
 ---
