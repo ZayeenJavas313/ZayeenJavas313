@@ -1,0 +1,55 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    # Update otomatis setiap hari jam 00:00 UTC (07:00 WIB)
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Token & User
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: ZayeenJavas313
+          filename: github-metrics.svg
+
+          # Template & Tampilan 2 Kolom seperti di gambar
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_twocolumns: yes
+          config_timezone: Asia/Jakarta
+          config_display: large
+          repositories_forks: yes
+          repositories_affiliations: owner, collaborator, organization_member
+
+          # Plugin: Isometric Contributions Calendar (kanan atas)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+          # Plugin: Languages (kanan tengah)
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_indepth: yes
+
+          # Plugin: Lines of Code (kiri bawah profil)
+          plugin_lines: yes
+
+          # Plugin: Recently Starred Repositories (kiri bawah)
+          plugin_starred: yes
+          plugin_starred_limit: 3
+
+          # Opsional: Plugin LeetCode (kanan bawah - hapus jika tidak pakai LeetCode)
+          # plugin_leetcode: yes
+          # plugin_leetcode_user: USERNAME_LEETCODE_KAMU
+          # plugin_leetcode_sections: solved, skills
